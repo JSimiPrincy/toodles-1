@@ -1,0 +1,134 @@
+.login-main {
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 80px;
+
+background: #9E5AFF;
+border: 1px solid #000000;
+}
+
+.login-head {
+    position: absolute;
+width: 229px;
+height: 80px;
+left: 979px;
+top: 63px;
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 66px;
+line-height: 61px;
+color: #FFF42C;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.email-1 {
+    position: absolute;
+width: 400px;
+height: 0px;
+left: 865px;
+top: 220px;
+color:#FFF42C;
+border: 1px solid #f1ea18
+}
+
+.password-1 {
+    position: absolute;
+width: 400px;
+height: 0px;
+left: 465px;
+top: 320px;
+color:#FFF42C;
+border: 1px solid #f1ea18
+}
+
+.mobile-1 {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 65px;
+    top: 420px;
+    color:#FFF42C;
+    border: 1px solid #f1ea18
+}
+
+.remember {
+    position: absolute;
+width: 197px;
+height: 39px;
+left: 885px;
+top: 562px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 29px;
+
+color: #EAE7E7;
+}
+.login-1{
+    position: absolute;
+width: 211px;
+height: 54px;
+left: 938px;
+top: 641px;
+
+background: #FFA206;
+border: 1px solid #000000;
+border-radius: 33px;
+}
+.or {
+    position: absolute;
+width: 49px;
+height: 39px;
+left: 1016px;
+top: 728px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 29px;
+text-align: center;
+
+color: #EAE7E7;
+}
+.sign-1 {
+    position: absolute;
+width: 211px;
+height: 56px;
+left: 938px;
+top: 800px;
+
+background: #FF40BD;
+border: 1px solid #000000;
+border-radius: 33px
+}
+
+.google {
+    position: absolute;
+width: 77px;
+height: 77px;
+left: 870px;
+top: 900px;
+
+}
+.facebook {
+    position: absolute;
+width: 77px;
+height: 77px;
+left: 1020px;
+top: 900px
+}
+
+.twitter {
+    position: absolute;
+width: 77px;
+height: 77px;
+left: 1170px;
+top: 900px;
+}

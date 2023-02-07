@@ -1,0 +1,148 @@
+.main {
+    width: 1440px;
+    height: 1069px;
+    left: 0px;
+    top: 189px;
+    background-color: #F80FA8;
+}
+
+
+.header {
+width: 454px;
+height: 249px;
+left: 804px;
+top: 189px;
+
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 66px;
+line-height: 77px;
+/* or 117% */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #FFF42C;
+
+}
+.content {
+    width: 587px;
+    height: 512px;
+    top: 487px;
+    left: 720px;
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 55px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+   color: #FFFFFF;
+}
+
+.main-1 {
+    position: absolute;
+    width: 1440px;
+    height: 1069px;
+    left: 0px;
+    top: 1069px;
+    background-color: #A1E781;
+}
+
+.header-1 {
+    position: absolute;
+    width: 712px;
+    height: 160px;
+    left: 112px;
+    top: 143px;
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 66px;
+    line-height: 77px;
+    display: flex;
+    align-items: flex-end;
+    color: #64268E;
+}
+
+.content-1 {
+    position: absolute;
+    width: 686px;
+    height: 407px;
+    left: 110px;
+    top: 361px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-family: 400;
+    font-size: 33px;
+    line-height: 55px;
+    color: #000000;
+}
+
+.btn {
+    position: absolute;
+    width: 271px;
+    height: 74px;
+    left: 303px;
+    top: 768px;
+    background: #FF40BD;
+    border: 1px solid #000000;
+    border-radius: 33px;
+}
+
+.main-2 {
+    position: absolute;
+    width: 1429px;
+    height: 1068px;
+    left: 0px;
+    top: 2138px;
+    background: #CDBFFF;
+}
+
+.header-2 {
+    position: absolute;
+    width: 660px;
+    height: 161px;
+    left: 744px;
+    top: 108px;
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 66px;
+    line-height: 77px;
+    display: flex;
+    align-items: flex-end;
+    color: #EB009A;
+}
+
+.btn-1 {
+    position: absolute;
+    width: 231px;
+    height: 57px;
+    left: 764px;
+    top: 344px;
+    background: #af3cfc;
+    border: 1px solid #000000;
+    border-radius: 33px;
+}
+
+.content-2 {
+    position: absolute;
+    width: 698px;
+    height: 275px;
+    left: 737px;
+    top: 548px;
+   font-family: 'DM Sans';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 33px;
+   line-height: 55px;
+   color: #000000;
+}
+
+.last {
+    position: absolute;
+    top: 3126px;
+}

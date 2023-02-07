@@ -1,0 +1,61 @@
+.signup-main {
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 80px;
+
+background: #9E5AFF;
+border: 1px solid #000000;
+
+}
+.signup-header {
+    position: absolute;
+width: 408px;
+height: 308px;
+left: 168px;
+top: 76px;
+font-family: 'League Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 66px;
+line-height: 97px;
+color: #FFF42C;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.login {
+    position: absolute;
+width: 211px;
+height: 51px;
+left: 124px;
+top: 752px;
+
+background: #FFA206;
+border: 1px solid #000000;
+border-radius: 33px;
+}
+
+.signin {
+    position: absolute;
+width: 211px;
+height: 51px;
+left: 403px;
+top: 752px;
+
+background: #FF40BD;
+border: 1px solid #000000;
+border-radius: 33px;
+}
+
+.Login {
+    position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 1069px;
+
+background: #9E5AFF;
+border: 1px solid #000000;
+}
