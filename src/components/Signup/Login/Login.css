@@ -1,12 +1,19 @@
 .login-main {
     position: absolute;
-width: 1440px;
+width: 1352px;
 height: 1024px;
 left: 0px;
 top: 80px;
 
 background: #9E5AFF;
 border: 1px solid #000000;
+}
+.login-img {
+    position: absolute;
+width: 823px;
+height: 728px;
+left: 0px;
+top: 178px;
 }
 
 .login-head {
@@ -111,24 +118,9 @@ border-radius: 33px
 
 .google {
     position: absolute;
-width: 77px;
+width: 187px;
 height: 77px;
-left: 870px;
+left: 950px;
 top: 900px;
 
-}
-.facebook {
-    position: absolute;
-width: 77px;
-height: 77px;
-left: 1020px;
-top: 900px
-}
-
-.twitter {
-    position: absolute;
-width: 77px;
-height: 77px;
-left: 1170px;
-top: 900px;
 }

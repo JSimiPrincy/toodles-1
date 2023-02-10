@@ -20,6 +20,13 @@
     line-height: 55px;
     color: #EAE7E7;
 }
+.contact {
+    position: absolute;
+width: 915px;
+height: 829px;
+left: 649px;
+top: 81px;
+}
 
 .contact-header-1 {
     position: absolute;
@@ -175,7 +182,7 @@ display: flex;
     position: absolute;
 width: 84px;
 height: 80px;
-left: 531px;
+left: 521px;
 top: 882px;
 color: rgb(241, 166, 74);
 }

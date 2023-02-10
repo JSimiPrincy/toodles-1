@@ -23,26 +23,23 @@ const Navbar = () => {
                         Home
                     </Link>
                 </li>
+                
                 <li className="nav-item">
-                    <Link to="/planner" className="nav-link" onClick={closeMenu}>
-                        Planner
+                    <Link to="/Signup" className="nav-link" onClick={closeMenu}>
+                        Signin
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link to="/scoreboard" className="nav-link" onClick={closeMenu}>
-                        Scoreboard
+                    <Link to="/Conference" className="nav-link" onClick={closeMenu}>
+                        Conference
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link to="/contact" className="nav-link" onClick={closeMenu}>
+                    <Link to="/Contact" className="nav-link" onClick={closeMenu}>
                         Contact
                     </Link>
                 </li>
-                <li className="nav-item">
-                    <Link to="/signup" className="nav-link" onClick={closeMenu}>
-                        Signup
-                    </Link>
-                </li>
+                
             </div>
         </nav>
     );

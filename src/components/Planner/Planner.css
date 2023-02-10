@@ -1,0 +1,36 @@
+.planner-main {
+    position: relative;
+width: 1440px;
+height: 1241px;
+
+background: #FFFFFF;
+}
+
+.btn-4 {
+    position: absolute;
+width: 240px;
+height: 70px;
+left: 56px;
+top: 222px;
+
+background: #F80FA8;
+border-radius: 33px;
+}
+
+.btn-5 {
+    position: absolute;
+width: 240px;
+height: 71px;
+left: 56px;
+top: 450px;
+
+background: #1A4789;
+border-radius: 33px;
+}
+.calender {
+    position: absolute;
+width: 1068px;
+height: 988px;
+left: 321px;
+top: 197px;
+}

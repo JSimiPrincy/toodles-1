@@ -1,5 +1,5 @@
 import * as React from 'react';
-export class PropertyPane extends React.Component {
+export default class PropertyPane extends React.Component {
     render() {
         return (<div className='property-panel-section'>
                 <div className="property-panel-header">

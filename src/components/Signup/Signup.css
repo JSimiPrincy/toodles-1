@@ -1,6 +1,6 @@
 .signup-main {
     position: absolute;
-width: 1440px;
+width: 1352px;
 height: 1024px;
 left: 0px;
 top: 80px;
@@ -37,6 +37,14 @@ border: 1px solid #000000;
 border-radius: 33px;
 }
 
+.signup-img {
+    position: absolute;
+width: 712px;
+height: 897px;
+left: 674px;
+top: 47px;
+}
+
 .signin {
     position: absolute;
 width: 211px;
@@ -51,7 +59,7 @@ border-radius: 33px;
 
 .Login {
     position: absolute;
-width: 1440px;
+width: 1352px;
 height: 1024px;
 left: 0px;
 top: 1069px;
