@@ -3,7 +3,7 @@
 width: 1440px;
 height: 1241px;
 
-background: #FFFFFF;
+background: #effca9;
 }
 
 .btn-4 {
@@ -11,26 +11,63 @@ background: #FFFFFF;
 width: 240px;
 height: 70px;
 left: 56px;
-top: 222px;
+top: 322px;
 
 background: #F80FA8;
 border-radius: 33px;
 }
+
 
 .btn-5 {
     position: absolute;
 width: 240px;
 height: 71px;
 left: 56px;
-top: 450px;
+top: 442px;
 
 background: #1A4789;
 border-radius: 33px;
 }
-.calender {
+
+.btn-6 {
+    position: absolute;
+width: 240px;
+height: 70px;
+left: 56px;
+top: 562px;
+
+background: #1A4789;
+border-radius: 33px;
+}
+
+.btn-7 {
+    position: absolute;
+width: 240px;
+height: 71px;
+left: 56px;
+top: 682px;
+
+background: #1A4789;
+border-radius: 33px;
+}
+
+.btn-8 {
+    position: absolute;
+width: 240px;
+height: 71px;
+left: 58px;
+top: 802px;
+
+background: #1A4789;
+border-radius: 33px;
+}
+.month {
     position: absolute;
 width: 1068px;
 height: 988px;
 left: 321px;
 top: 197px;
 }
+
+
+
